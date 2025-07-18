@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "243968268862",
+    "firebase_url": "https://stockadvisor-187a0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "stockadvisor-187a0",
+    "storage_bucket": "stockadvisor-187a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243968268862:android:7a84a6df6283d88f9f4f6f",
+        "android_client_info": {
+          "package_name": "com.trader.stockadvisor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFY1W8mXLdj2aifh6d1NCeI4nr7QqrII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243968268862:android:8631985cfa410bac9f4f6f",
+        "android_client_info": {
+          "package_name": "com.trader.stockadvisorai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFY1W8mXLdj2aifh6d1NCeI4nr7QqrII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
